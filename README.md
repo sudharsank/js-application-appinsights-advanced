@@ -1,7 +1,7 @@
 # JS Application AppInsights Advanced
 
 ## Summary
-> This application customizer will track the pageviews using Azure App Insights. The customizer will track the react routing which is used in SPA, in SharePoint Online it tracks the navigation between the news post which is not the actual post back. Also, added some custom properties about the site and the logged in user details for report usage.
+> This application customizer will track the pageviews using Azure App Insights. The customizer will track the react routing which is used in **SPA**, in SharePoint Online it tracks the navigation between the news post which is not the actual post back. Also, added some custom properties about the site and the logged in user details for report usage.
 
 ## Pre-requisites
 > **Azure Application Insights** has to be configured. Please follow the link [Create an Application Insights resource](https://docs.microsoft.com/en-us/azure/azure-monitor/app/create-new-resource) to create the Application Insights resource and grab the **Instrumentation Key** which is required for the extension to pass the tracking data.
