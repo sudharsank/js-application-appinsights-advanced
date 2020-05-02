@@ -31,7 +31,6 @@ export default class AppInsightsAdvancedApplicationCustomizer
     var reactPlugin = new ReactPlugin();
     var appInsights = new ApplicationInsights({
       config: {
-        autoTrackPageVisitTime: true,
         maxBatchInterval: 0,
         disableFetchTracking: true,
         disableAjaxTracking: true,
